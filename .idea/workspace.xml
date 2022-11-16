@@ -2,121 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0889633e-e773-4bb9-a6b8-c0adbd497534" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/On_Regularising_Neural_Link_Predictors.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/On_Regularising_Neural_Link_Predictors.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/coauthors.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/cv.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/cv/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/cv/map.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/cv/nested_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/cv/time_table.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/figure.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/metadata.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/pagination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/projects_horizontal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts/analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts/bootstrap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts/jquery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts/masonry.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts/mathjax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts/misc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/selected_papers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/social.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/archive-category.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/archive-tag.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/archive-year.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/bib.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/cv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/distill.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/none.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/dropdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/projects.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/teaching.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_plugins/external-posts.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_plugins/hideCustomBibtex.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-03-15-formatting-and-links.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-05-15-images.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-15-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-20-comments.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-20-math.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-22-distill.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-28-github-metadata.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-28-twitter.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-07-04-diagrams.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-02-01-redirect.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/1_project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/2_project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/3_project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/4_project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/5_project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/6_project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_distill.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_themes.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/bibliography/2018-12-22-distill.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/al-folio-preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/code-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/distill-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/math-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/pagespeed.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/photos-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/prof_pic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/projects-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/brownian-motion.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publications-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/dark_mode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/distillpub/overrides.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/distillpub/template.v2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/distillpub/template.v2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/distillpub/transforms.v2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/distillpub/transforms.v2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/masonry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/zoom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/example_pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/cibuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deploy" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deploy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/vitae.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paper/ijcai22.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/paper/ijcai22_1616.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -131,30 +21,31 @@
     <session id="1303141480">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="539" />
+          <entry key="html" value="541" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="539" />
+          <entry key="HTML" value="541" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
+          <entry key="html" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -164,21 +55,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="195" column="411" selection-start-line="195" selection-start-column="411" selection-end-line="195" selection-end-column="411" />
+            <state relative-caret-position="232">
+              <caret line="42" column="40" lean-forward="true" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
               <folding>
                 <element signature="e#7611#7617#0" expanded="true" />
-                <element signature="e#7792#7798#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publications/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3510">
-              <caret line="234" selection-start-line="234" selection-end-line="234" />
             </state>
           </provider>
         </entry>
@@ -191,6 +72,7 @@
       <find>abobu2</find>
       <find>Andreea Bobu</find>
       <find>facebook</find>
+      <find>link</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -227,11 +109,6 @@
             <path>
               <item name="garyball.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="garyball.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="garyball.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="garyball.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="publications" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,11 +147,12 @@
       <updated>1668615392559</updated>
       <workItem from="1668615395463" duration="595000" />
       <workItem from="1668615993813" duration="2145000" />
+      <workItem from="1668618670863" duration="112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2740000" />
+    <option name="totallyTimeSpent" value="2852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="851" extended-state="0" />
@@ -308,18 +186,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/publications/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3510">
-          <caret line="234" selection-start-line="234" selection-end-line="234" />
+        <state relative-caret-position="681">
+          <caret line="310" column="49" selection-start-line="310" selection-start-column="45" selection-end-line="310" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="195" column="411" selection-start-line="195" selection-start-column="411" selection-end-line="195" selection-end-column="411" />
+        <state relative-caret-position="232">
+          <caret line="42" column="40" lean-forward="true" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
           <folding>
             <element signature="e#7611#7617#0" expanded="true" />
-            <element signature="e#7792#7798#0" expanded="true" />
           </folding>
         </state>
       </provider>
