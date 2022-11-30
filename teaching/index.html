@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>Andreea Bobu | Teaching</title>
+  <title>Keyue Jiang | Projects</title>
   <meta name="description" content="A beautiful Jekyll theme for academics">
 
   <!-- Fonts and Icons -->
@@ -21,15 +21,15 @@
   <nav id="navbar" class="navbar fixed-top navbar-expand-md grey lighten-5 z-depth-1 navbar-light">
     <div class="container-fluid p-0">
       
-        <a class="navbar-brand title font-weight-lighter" href="/"><span class="font-weight-bold">Andreea</span> Bobu</a>
-  	<div class="row ml-1 ml-sm-0">
+        <a class="navbar-brand title font-weight-lighter" href="/"><span class="font-weight-bold">Keyue</span> Jiang</a>
+      <div class="row ml-1 ml-sm-0">
           <span class="contact-icon text-center" style="line-height: 1em;">
-            <a href="mailto:abobu@berkeley.edu"><i class="fa fa-envelope-square gm-icon"></i></a>
-            <a href="https://scholar.google.com/citations?user=62e5CygAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar-square gs-icon"></i></a>
-            <a href="https://github.com/andreea7b" target="_blank" title="GitHub"><i class="fab fa-github-square gh-icon"></i></a>
-            <a href="https://twitter.com/andreea7b" target="_blank" title="Twitter"><i class="fab fa-twitter-square tw-icon"></i></a>
+            <a href="mailto:keyue.jiang.18@ucl.ac.uk"><i class="fa fa-envelope-square gm-icon"></i></a>
+            <a href="" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar-square gs-icon"></i></a>
+            <a href="https://github.com/GaryBall" target="_blank" title="GitHub"><i class="fab fa-github-square gh-icon"></i></a>
+            <a href="https://www.linkedin.com/in/keyue-jiang-6946881a0/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin li-icon"></i></a>
           </span>
-        </div>
+      </div>
     
       <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -75,7 +75,7 @@
             
               <li class="nav-item navbar-active font-weight-bold">
                   <a class="nav-link" href="/teaching/">
-                    Teaching
+                    Projects
                     
                       <span class="sr-only">(current)</span>
                     
@@ -106,58 +106,176 @@
   <!-- Content -->
   <div class="content">
     
-  <h1>Teaching & Mentorship</h1>
-  <h6>classes and research mentorship</h6>
+  <h1>Meng/MSc projects & TA works</h1>
+  <h6>Project supervisions and TA works</h6>
 
 
-<h3 class="mt-4">University of California, Berkeley</h3>
+<h3 class="mt-4">MSc project proposals 2022-23</h3>
+
+    <h6>Every year <a href="https://laspucl2016.wpcomstaging.com/" target="_blank">UCL LASP</a> provides a list of MSc projects to students.
+      If you are currently enrolled in any of the MSc programmes at UCL EEE (e.g. MSc Integrated Machine Learning Systems),
+      and are interested in working with us on graph machine learning (survey for <a href="https://arxiv.org/abs/1901.00596" target="_blank">Graph Neural Networks</a>
+      and <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9244180" target="_blank">Graph Signal Processing</a>), please feel free to have a look at the project proposals and <a href="mailto:keyue.jiang.18@ucl.ac.uk" target="_blank" >contact us</a>!</h6>
 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Algorithmic Foundations of Human-Robot Interaction</h5>
+        <h5 class="font-weight-bold">Asynchronous Message Passing Networks for Dynamic Graphs</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" href="https://people.eecs.berkeley.edu/~anca/AHRI.html" target="_blank">
-            CS 287H
+        <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" href="/" target="_blank">
+            IMLS MSc
         </a>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2021: Graduate Student Instructor</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">2023 Spring-Summer: Projects duration</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <p>
-      CS 287H is a graduate-level introduction to algorithmic HRI taught by <a href="https://people.eecs.berkeley.edu/~anca/" target="_blank">Prof. Anca Dragan</a>. The course combines lectures with paper presentations by students, encouraging both fundamental knowledge acquisition as well as open-ended discussions. As the only teaching assistant, I had an opportunity to directly influence the course: I created weekly quizzes, developed homework assignments that allowed students to implement the concepts we discussed as an HRI researcher would, brainstormed and provided feedback on project proposals, graded all materials in the course, and led some of the lectures. I also guest lectured both in 2020 (slides <a href="https://people.eecs.berkeley.edu/~anca/AHRI-S2020/andreea.pdf" target="_blank">here</a>) and 2021. Course materials can be found <a href="https://people.eecs.berkeley.edu/~anca/AHRI.html" target="_blank">here</a>.
+        While most graph machine learning methods have been targeted at static graphs,
+        many important real-world graphs are dynamic -- they change with time. For example,
+        infectious diseases spread along with the changing graph of interpersonal contacts.
+        Graphs of social networks and e-commerce also change as new members join, or new data becomes available.
+      </p>
+      <p>
+        In the project, we argue that the paradigm of most existing Graph Neural Networks (GNNs),
+        so-called synchronous message passing process (ref <a href="https://dl.acm.org/doi/abs/10.1007/978-3-030-94876-4_2" target="_blank">here</a>),
+        is not ideal for modeling dynamic graphs.
+        Thus, we then propose to use Asynchronous Message Passing (<a href="https://arxiv.org/abs/2205.12245" target = "_blank">AMP</a>) models instead to overcome the challenges in dynamic graph machine learning.
+        We believe the AMP models can better model the time-varying nature and solve the information redundancy problem of dynamic graphs.
       </p>
     </ul>
   </div>
 </div>
 
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Introduction to Artificial Intelligence</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" href="https://inst.eecs.berkeley.edu/~cs188/fa19/" target="_blank">
-            CS 188
-        </a>
+    <div class="card mt-3">
+      <div class="p-3">
+        <div class="row">
+          <div class="col-sm-10">
+            <h5 class="font-weight-bold">Multi-task Graph Representation Learning with Agent Random Walk</h5>
+          </div>
+          <div class="col-sm-2 text-left text-sm-right">
+            <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" href="/" target="_blank">
+              IMLS MSc
+            </a>
+          </div>
+        </div>
+        <h6 class="font-italic mt-2 mt-sm-0">2023 Spring-Summer: Projects duration</h6>
+        <ul class="card-text font-weight-light list-group list-group-flush">
+          <p>
+            Graphs are prominent tools to model relational data in many domains,
+            such as traffic networks, social networks and protein discovery.
+            In many of these applications, the success of algorithms is attributed to recognizing the presence or absence of specific substructures for a specific task,
+            e.g. atomic groups in the case of molecule and protein functions, or cliques in social networks. However,
+            current works based on message-passing networks are spending intensive computation to travel through all possible paths in the graphs by aggregating information from neighbours for every node.
+            Thus, it is natural to think, whether we can avoid this redundant computation but just extract the subgraph instead.
+          </p>
+          <p>
+
+            <a href="https://arxiv.org/abs/2206.11010" target="_blank">Recent work</a>  considers this problem with a new paradigm called agent-based networks,
+            which could directly mine the subgraph in the whole graph and learn the embeddings while walking around the graph.
+            Inspired by this, the project aims to use a similar method to solve multi-task learning or meta-learning on graphs.
+            Specifically, an agent will be designed to walk the graphs with task-specific guidance, so it could be capable to make different decisions while walking on the graph.
+            The difficulty lies in how to design the strategy of walking and how can the agent efficiently extract the information from the graphs. (E.g. Goal-conditioned RL methods could be considered)
+          </p>
+
+        </ul>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Fall 2019: Graduate Student Instructor</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-			<p>
-			CS 188 is an upper-division introduction to artificial intelligence taught by <a href="https://people.eecs.berkeley.edu/~anca/" target="_blank">Prof. Anca Dragan</a>. Throughout the course, I covered concepts ranging from search algorithms, game trees, Markov decision processes, reinforcement learning, probabilistic graphical modeling, and machine learning. I held regular office hours, designed homework and exams, and led weekly one-hour discussion sections.
-      Course materials can be found <a href="https://inst.eecs.berkeley.edu/~cs188/fa19/" target="_blank">here</a>.
-			</p>
-    </ul>
-  </div>
-</div>
+
+    <div class="card mt-3">
+      <div class="p-3">
+        <div class="row">
+          <div class="col-sm-10">
+            <h5 class="font-weight-bold">Associating Graphs and Natural Language with Multimodal Deep Learning</h5>
+          </div>
+          <div class="col-sm-2 text-left text-sm-right">
+            <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" href="/" target="_blank">
+              IMLS MSc
+            </a>
+          </div>
+        </div>
+        <h6 class="font-italic mt-2 mt-sm-0">2023 Spring-Summer: Projects duration</h6>
+        <ul class="card-text font-weight-light list-group list-group-flush">
+          <p>
+            Multimodal learning is a technique aiming to combine information from different resources,
+            and is gaining more popularity in the field of image-text translation recently thanks to the giant success of large cross-modal pretrained models like CLIP, DALL-e.
+            With this inspiration, it is natural to wonder if we can do a similar job in the community of graphs.
+          </p>
+          <p>
+            This project will first consider a novel cross-modal task -
+            the translation between graphs and Natural Language. We will start with generating molecule descriptions based on molecule graphs
+            as the dataset can be easily retrieved. And the next step could be generating graphs from description tasks, which is a much more complicated task. Finally,
+            we will build a large pre-trained model cross the modalities between graphs and natural language to achieve better knowledge representation and better performance on several downstream tasks,
+            like property prediction, drug discovery or protein design.
+          </p>
+        </ul>
+      </div>
+    </div>
+
+    <div class="card mt-3">
+      <div class="p-3">
+        <div class="row">
+          <div class="col-sm-10">
+            <h5 class="font-weight-bold">Contextual Stochastic Block based Graph neural networks</h5>
+          </div>
+          <div class="col-sm-2 text-left text-sm-right">
+            <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" href="/" target="_blank">
+              IMLS MSc
+            </a>
+          </div>
+        </div>
+        <h6 class="font-italic mt-2 mt-sm-0">2023 Spring-Summer: Projects duration</h6>
+        <ul class="card-text font-weight-light list-group list-group-flush">
+          <p>
+            Graph Neural Networks (GNNs) have shown their competency in encoding graph-structured data. However,
+            the explainability of GNNs is not always coherent with the model,
+            and most of the existing models gain explainability instance-wise -
+            they provide input-dependent explanations for each input  graph. This project aims to construct a novel type of graph neural networks
+            that can gain model-level explainability and expressiveness by combing Contextual Stochastic Block Models (CSBM) and slot attention networks into GNNs.
+          </p>
+          <p>
+            <a href="https://arxiv.org/abs/1411.2158" target="_blank">Contextual Stochastic Block Model (CSBM)</a> (also see <a href="https://arxiv.org/abs/1807.09596" target="_blank">here</a>)is a widely used tool in the research of graph theories with applications like spectral clustering and community detection. CSBM assumes that each node $\mathcal{V}_i$ in graph $\mathcal{G}$ belongs to a block (i.e. community) $\mathbf{B}_j$, and the blocks are internally connected to each other. The idea is to use a framework similar to CSBM to construct graph neural networks to gain explainability and expressiveness by iteratively refining the graph information using CSBM. The difficult part would be how to incorporate community discovery into GNNs. A method could be using slot attention networks or capsule networks, but there are always other possible solutions.
+          </p>
+        </ul>
+      </div>
+    </div>
+
+    <div class="card mt-3">
+      <div class="p-3">
+        <div class="row">
+          <div class="col-sm-10">
+            <h5 class="font-weight-bold">Balancing the Information from Node Attribute and Topological Structure in Graph Neural networks</h5>
+          </div>
+          <div class="col-sm-2 text-left text-sm-right">
+            <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" href="/" target="_blank">
+              IMLS MSc
+            </a>
+          </div>
+        </div>
+        <h6 class="font-italic mt-2 mt-sm-0">2023 Spring-Summer: Projects duration</h6>
+        <ul class="card-text font-weight-light list-group list-group-flush">
+          <p>
+            The message-passing framework is the foundation of many graph neural networks (GNNs).
+            A typical message-passing framework usually consists of two parts -
+            <a href="https://arxiv.org/pdf/2206.04361.pdf" target="https://arxiv.org/pdf/2206.04361.pdf">Transformation (T) and Propagation (P)</a> ,
+            respectively responsible for capturing the node attributes information and the structural information.
+            The node information and structural information can have different roles in the homogenous/heterogeneous graphs,
+            while in most cases we will not have prior information about which aspect should we use for prediction.
+            Thus, building a GNN model without a special design usually cannot achieve satisfactory performance.
+            Graph signal processing (GSP) is a useful toolkit to infer graph structure from the graph signals (i.e. node attributes).
+            In this project, we wish to use the methods in graph signal processing to balance the utility of node attributes and structural information.
+            This project aims to develop a mechanism to measure the information from node attributes and topological structures, and consequently design novel GNNs based on this mechanism.
+          </p>
+
+        </ul>
+      </div>
+    </div>
 
 
-<h3 class="mt-4">Massachusetts Institute of Technology</h3>
 
+<h3 class="mt-4">TA jobs</h3>
+<!--
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -220,9 +338,10 @@
     </ul>
   </div>
 </div>
+-->
 
 
-
+<!--
 <h3 class="mt-4">Research Mentorship</h3>
 <div class="card mt-3">
   <div class="p-3">
@@ -269,12 +388,12 @@
 
   </div>
 </div>
-
+-->
   </div>
 
   <!-- Footer -->
   <footer>
-    &copy; Copyright 2020 Andreea Bobu.
+    &copy; Copyright 2022 Keyue JIANG.
     
     
   </footer>
