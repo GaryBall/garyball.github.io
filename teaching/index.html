@@ -137,22 +137,20 @@
             A typical message-passing framework usually consists of two parts - Transformation (T) and Propagation (P)
             (ref <a href="https://arxiv.org/pdf/2206.04361.pdf" target="https://arxiv.org/pdf/2206.04361.pdf">here</a> and <a href="https://arxiv.org/abs/1810.05997" target="https://arxiv.org/abs/1810.05997">here</a>),
             respectively responsible for capturing the node attributes information and the structural information.
-            The node information and structural information can have different roles in the homogenous/heterogeneous graphs,
-            while in most cases we will not have prior information about which aspect should we use for prediction.
-            Thus, building a GNN model without a special design usually cannot achieve satisfactory performance.
+            These two sources of information have different roles in different types of graphs (e.g. homogenous/heterogeneous),
+            while in most cases we will not have prior information about which aspect should we focus on.
+            Thus, building a GNN model without a proper design according to graph properties usually cannot achieve satisfactory performance.
 
           </p>
           <p>
 
-            <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9244180" target="_blank">Graph Signal Processing (GSP)</a> is a
-            powerful toolkit to infer graph structure from the graph signals (i.e. node attributes).
-            The project idea is to utilize this property in GSP for balancing the information importance from node attributes and topological structures.
-          </p>
-          <p>
-            The first step of this project will focus on an ablation study on the Transformation and Propagation modules in GNNs,
+            This project will use <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9244180" target="_blank">Graph Signal Processing (GSP)</a> to solve this problem.
+            GSP is a powerful toolkit to infer graph structure from the graph signals (i.e. node attributes),
+            and can serve as a method to measure the information from both sides.
+            The first step of this project will be an ablation study on the Transformation and Propagation modules in GNNs,
             and investigate how they capture the information from node attributes and topological structure.
-            Then we will utilize the techniques in GSP to develop a mechanism to measure the two sides of information.
-            Finally, the ultimate goal is to design novel GNNs based on this mechanism.
+            Then we will utilize the techniques in GSP to measure the two sides of information with a novel mechanism.
+            Finally, the ultimate goal is to design new GNNs based on the observations.
           </p>
 
 
